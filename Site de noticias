@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portal 2025 - Notícias & Curiosidades</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background: #003366;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    nav {
+      background: #0055a5;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 15px;
+    }
+
+    nav a {
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    article {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    article h2 {
+      color: #003366;
+    }
+
+    aside {
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      background: #003366;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🌍 Portal 2025 - Notícias & Curiosidades</h1>
+    <p>Fique por dentro de tudo: política, economia, jogos, ciência e mais!</p>
+  </header>
+
+  <nav>
+    <a href="#politica">Política</a>
+    <a href="#economia">Economia</a>
+    <a href="#jogos">Jogos</a>
+    <a href="#mar">Curiosidades Marinhas</a>
+    <a href="#animais">Animais</a>
+  </nav>
+
+  <main>
+    <div>
+      <article id="politica">
+        <h2>📰 Política</h2>
+        <p>O governo anuncia novas medidas para 2025 visando modernizar a economia digital. Especialistas divergem sobre os impactos políticos e sociais.</p>
+      </article>
+
+      <article id="economia">
+        <h2>💰 Economia</h2>
+        <p>Mercadorias registram aumento no preço em diversas regiões do país. Consumidores sentem no bolso, mas analistas dizem que tendência é estabilizar até o fim do ano.</p>
+      </article>
+
+      <article id="jogos">
+        <h2>🎮 Jogos</h2>
+        <p>Free Fire e outros Battle Royales dominam o cenário competitivo em 2025, com campeonatos milionários e recordes de audiência no streaming.</p>
+      </article>
+
+      <article id="mar">
+        <h2>🌊 Curiosidades Marinhas</h2>
+        <p>Cientistas descobrem uma nova espécie de peixe bioluminescente no fundo do oceano Atlântico. A descoberta pode ajudar em pesquisas sobre energia limpa.</p>
+      </article>
+
+      <article id="animais">
+        <h2>🐾 Curiosidades dos Animais</h2>
+        <p>Em 2025, pesquisadores revelam que golfinhos conseguem identificar amigos de longa data mesmo após anos separados. Um marco no estudo da inteligência animal.</p>
+      </article>
+    </div>
+
+    <aside>
+      <h2>🟢 Últimas Rápidas</h2>
+      <ul>
+        <li>⚡ Governo planeja incentivo para energia solar.</li>
+        <li>⚡ Novo smartphone gamer chega ao mercado.</li>
+        <li>⚡ Tubarões-brancos observados perto da costa.</li>
+        <li>⚡ Campeonato mundial de Free Fire começa em breve.</li>
+        <li>⚡ Pandas ganham novas reservas naturais na China.</li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <p>© 2025 Portal 2025 - Feito para informar e surpreender</p>
+  </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portal 2025 - Notícias & Curiosidades</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background: #003366;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    nav {
+      background: #0055a5;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 15px;
+    }
+
+    nav a {
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    article {
+      background: #fff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    article h2 {
+      color: #003366;
+    }
+
+    aside {
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      background: #003366;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🌍 Portal 2025 - Notícias & Curiosidades</h1>
+    <p>Fique por dentro de tudo: política, economia, jogos, ciência e mais!</p>
+  </header>
+
+  <nav>
+    <a href="#politica">Política</a>
+    <a href="#economia">Economia</a>
+    <a href="#jogos">Jogos</a>
+    <a href="#mar">Curiosidades Marinhas</a>
+    <a href="#animais">Animais</a>
+  </nav>
+
+  <main>
+    <div>
+      <article id="politica">
+        <h2>📰 Política</h2>
+        <p>O governo anuncia novas medidas para 2025 visando modernizar a economia digital. Especialistas divergem sobre os impactos políticos e sociais.</p>
+      </article>
+
+      <article id="economia">
+        <h2>💰 Economia</h2>
+        <p>Mercadorias registram aumento no preço em diversas regiões do país. Consumidores sentem no bolso, mas analistas dizem que tendência é estabilizar até o fim do ano.</p>
+      </article>
+
+      <article id="jogos">
+        <h2>🎮 Jogos</h2>
+        <p>Free Fire e outros Battle Royales dominam o cenário competitivo em 2025, com campeonatos milionários e recordes de audiência no streaming.</p>
+      </article>
+
+      <article id="mar">
+        <h2>🌊 Curiosidades Marinhas</h2>
+        <p>Cientistas descobrem uma nova espécie de peixe bioluminescente no fundo do oceano Atlântico. A descoberta pode ajudar em pesquisas sobre energia limpa.</p>
+      </article>
+
+      <article id="animais">
+        <h2>🐾 Curiosidades dos Animais</h2>
+        <p>Em 2025, pesquisadores revelam que golfinhos conseguem identificar amigos de longa data mesmo após anos separados. Um marco no estudo da inteligência animal.</p>
+      </article>
+    </div>
+
+    <aside>
+      <h2>🟢 Últimas Rápidas</h2>
+      <ul>
+        <li>⚡ Governo planeja incentivo para energia solar.</li>
+        <li>⚡ Novo smartphone gamer chega ao mercado.</li>
+        <li>⚡ Tubarões-brancos observados perto da costa.</li>
+        <li>⚡ Campeonato mundial de Free Fire começa em breve.</li>
+        <li>⚡ Pandas ganham novas reservas naturais na China.</li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <p>© 2025 Portal 2025 - Feito para informar e surpreender</p>
+  </footer>
+
+</body>
+</html>
